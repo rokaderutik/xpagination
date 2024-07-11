@@ -20,7 +20,7 @@ tbody tr {
 }
 
 .header {
-    background-color: #3eb082;
+    background-color: #2F855A;
     text-align: left;
     color: white;
 }
@@ -31,21 +31,22 @@ tbody tr {
     align-items: center;
     justify-content: center;
     gap: 16px;
-    color: white;
 }
 
 button {
     height: 30px;
     width: 80px;
     padding: 6px 16px;
-    background-color: #3eb082;
+    background-color: #2F855A;;
     border: none;
     border-radius: 4px;
+    color: white;
 }
 .pagination_div div{
     height: 30px;
     padding:  6px 16px;
-    background-color: #3eb082;
+    background-color: #2F855A;;
     border-radius: 4px;
     text-align: center;
+    color: white;
 }
