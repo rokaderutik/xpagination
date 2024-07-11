@@ -1,0 +1,51 @@
+.heading {
+    width: 100%;
+    margin: 0px;
+    text-align: center;
+    padding: 12px 0px;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+th, td {
+    padding: 8px;
+}
+
+tbody tr {
+    border-bottom: 2px solid #ebe8e1;
+}
+
+.header {
+    background-color: #3eb082;
+    text-align: left;
+    color: white;
+}
+
+.pagination_div {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    color: white;
+}
+
+button {
+    height: 30px;
+    width: 80px;
+    padding: 6px 16px;
+    background-color: #3eb082;
+    border: none;
+    border-radius: 4px;
+}
+.pagination_div div{
+    height: 30px;
+    padding:  6px 16px;
+    background-color: #3eb082;
+    border-radius: 4px;
+    text-align: center;
+}
